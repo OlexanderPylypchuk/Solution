@@ -1,0 +1,14 @@
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\bin\Debug\net8.0\Hedgehogs.exe
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\bin\Debug\net8.0\Hedgehogs.deps.json
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\bin\Debug\net8.0\Hedgehogs.runtimeconfig.json
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\bin\Debug\net8.0\Hedgehogs.dll
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\bin\Debug\net8.0\Hedgehogs.pdb
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.GeneratedMSBuildEditorConfig.editorconfig
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.AssemblyInfoInputs.cache
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.AssemblyInfo.cs
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.csproj.CoreCompileInputs.cache
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.dll
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\refint\Hedgehogs.dll
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.pdb
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\Hedgehogs.genruntimeconfig.cache
+D:\навчання\SoloProject\Hedgehogs\Hedgehogs\obj\Debug\net8.0\ref\Hedgehogs.dll
